@@ -37,7 +37,7 @@ In this lab you will get hands-on experience working with the new SharePoint App
 		<input type="button" value="Push Me" onclick="hello();" />
 		<div id="displayDiv"></div>;
 
-11. Inside **default.aspx**, locate the **PlaceHolderPageTitleInTitleArea** placeholder control and replace the content inside with the title **My Hello World App**.
+11. Inside **Default.aspx**, locate the **PlaceHolderPageTitleInTitleArea** placeholder control and replace the content inside with the title **My Hello World App**.
 12. In this step you will update the app script file. Using the Solution Explorer tool window, right-click the **Scripts/App.js** file and select **Open**. Add the following function to the bottom of the file that will be called when you click the button.
 
 		function hello() {
